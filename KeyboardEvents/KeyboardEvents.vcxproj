@@ -139,12 +139,12 @@
     <ResourceCompile Include="KeyboardEvents.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\Downloads\Heart.ico" />
+    <Image Include="icon_heart.ico" />
     <Image Include="KeyboardEvents.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Downloads\normal.cur" />
+    <None Include="cursor_emoji.cur" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
